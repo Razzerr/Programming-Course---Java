@@ -1,0 +1,21 @@
+var NAVTREEINDEX0 =
+{
+"_main_8java.html":[1,0,0,1],
+"_rabbit_8java.html":[1,0,0,2],
+"_wolf_8java.html":[1,0,0,3],
+"animation_panel_8java.html":[1,0,0,0],
+"annotated.html":[0,0],
+"class_main.html":[0,0,0],
+"class_rabbit.html":[0,0,1],
+"class_rabbit.html#af83ccda1dd4b52234d28aaffcd0b9bbd":[0,0,1,0],
+"class_wolf.html":[0,0,2],
+"class_wolf.html#ad13213f9167d4afd7abf79eacbf1e74a":[0,0,2,0],
+"classes.html":[0,1],
+"dir_68267d1309a1af8e8297ef4c3efbcdba.html":[1,0,0],
+"files.html":[1,0],
+"functions.html":[0,3,0],
+"functions_func.html":[0,3,1],
+"hierarchy.html":[0,2],
+"index.html":[],
+"pages.html":[]
+};
